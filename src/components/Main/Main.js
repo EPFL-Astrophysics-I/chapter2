@@ -8,7 +8,6 @@ const app1 = {
   unityLoader: 'UnityApp/Build/UnityLoader.js',
   description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  loadUnity: false,
 };
 
 const app2 = {
@@ -18,7 +17,6 @@ const app2 = {
   unityLoader: 'UnityApp/Build/UnityLoader.js',
   description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  loadUnity: false,
 };
 
 const app3 = {
@@ -28,7 +26,6 @@ const app3 = {
   unityLoader: 'UnityApp/Build/UnityLoader.js',
   description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  loadUnity: false,
 };
 
 export default function Main() {
