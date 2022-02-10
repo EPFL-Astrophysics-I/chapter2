@@ -1,5 +1,6 @@
 import UnityApp from '../UnityApp/UnityApp';
 import './Main.css';
+import image1 from './img-load-tidal-forces.png';
 
 const app1 = {
   index: 1,
@@ -10,6 +11,7 @@ const app1 = {
     "Tidal forces describe the variation of one object's gravitational field across and throughout the volume of another. " +
     "The Moon's tidal forces, for example, are laregly responsible for periodic distortions in Earth's shape as well as " +
     'the ocean tides.',
+  image: image1,
 };
 
 const app2 = {
@@ -18,8 +20,8 @@ const app2 = {
   json: '',
   unityLoader: '',
   description:
-    'The Roche limit is an invisible boundary surrounding a celestial body, where matter orbiting within this limit tends ' +
-    'to break up and form rings.',
+    'The Roche limit is an invisible boundary surrounding a celestial body, such as a planet or star. ' +
+    'Within this limit, orbiting matter tends to break up and form rings.',
 };
 
 const app3 = {
