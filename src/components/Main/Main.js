@@ -1,6 +1,7 @@
 import UnityApp from '../UnityApp/UnityApp';
 import './Main.css';
 import image1 from './img-load-tidal-forces.png';
+import image2 from './img-load-roche-limit.png';
 
 const app1 = {
   index: 1,
@@ -17,11 +18,12 @@ const app1 = {
 const app2 = {
   index: 2,
   name: 'Roche Limit',
-  json: '',
-  unityLoader: '',
+  json: 'RocheLimit/Build/RocheLimit.json',
+  unityLoader: 'RocheLimit/Build/UnityLoader.js',
   description:
     'The Roche limit is an invisible boundary surrounding a celestial body, such as a planet or star. ' +
     'Within this limit, orbiting matter tends to break up and form rings.',
+  image: image2,
 };
 
 const app3 = {
