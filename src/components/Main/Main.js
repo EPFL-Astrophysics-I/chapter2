@@ -13,6 +13,7 @@ const app1 = {
     "The Moon's tidal forces, for example, are laregly responsible for periodic distortions in Earth's shape as well as " +
     'the ocean tides.',
   image: image1,
+  github: 'https://github.com/EPFL-Astrophysics-I/tidal-forces.git',
 };
 
 const app2 = {
@@ -24,6 +25,7 @@ const app2 = {
     'The Roche limit is an invisible boundary surrounding a celestial body, such as a planet or star. ' +
     'Within this limit, orbiting matter tends to break up and form rings.',
   image: image2,
+  github: 'https://github.com/EPFL-Astrophysics-I/roche-limit.git',
 };
 
 const app3 = {
