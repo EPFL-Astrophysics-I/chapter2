@@ -2,6 +2,7 @@ import UnityApp from '../UnityApp/UnityApp';
 import './Main.css';
 import image1 from './img-load-tidal-forces.png';
 import image2 from './img-load-roche-limit.png';
+import image3 from './img-load-tidal-locking.png';
 
 const app1 = {
   index: 1,
@@ -31,12 +32,14 @@ const app2 = {
 const app3 = {
   index: 3,
   name: 'Tidal Locking',
-  json: '',
-  unityLoader: '',
+  json: 'TidalLocking/Build/TidalLocking.json',
+  unityLoader: 'TidalLocking/Build/UnityLoader.js',
   description:
     'Given enough time, the rotation period of a moon about its own axis will tend to equalize with the orbital ' +
     'period around its host planet. As with many moons and planets in the solar system, our Moon has reached this state, ' +
     'meaning we always see the same face as viewed from Earth.',
+  image: image3,
+  github: 'https://github.com/EPFL-Astrophysics-I/tidal-locking/git',
 };
 
 export default function Main() {
