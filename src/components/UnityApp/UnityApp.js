@@ -104,6 +104,9 @@ class UnityApp extends React.Component {
             <p></p>
           )}
           <p>{this.props.description}</p>
+          <p>
+            <i>{this.props.comment}</i>
+          </p>
         </div>
       </div>
     );

@@ -40,6 +40,7 @@ const app3 = {
     'meaning we always see the same face as viewed from Earth.',
   image: image3,
   github: 'https://github.com/EPFL-Astrophysics-I/tidal-locking/git',
+  comment: 'Primary app developer: Théo Damiani.',
 };
 
 export default function Main() {
