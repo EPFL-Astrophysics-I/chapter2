@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chapter2/static/css/main.a5b5eca9.css",
-    "main.js": "/chapter2/static/js/main.ecdde838.js",
+    "main.css": "/chapter2/static/css/main.83c6978a.css",
+    "main.js": "/chapter2/static/js/main.d67a3572.js",
     "static/js/787.1a118c60.chunk.js": "/chapter2/static/js/787.1a118c60.chunk.js",
     "static/media/img-load-tidal-forces.png": "/chapter2/static/media/img-load-tidal-forces.eba503b1d08372292c74.png",
     "static/media/img-load-tidal-locking.png": "/chapter2/static/media/img-load-tidal-locking.5e75a353e095e5fb7488.png",
@@ -9,12 +9,12 @@
     "static/media/loader-default.png": "/chapter2/static/media/loader-default.28bb9044d05db146b4fb.png",
     "static/media/wave-background.png": "/chapter2/static/media/wave-background.11af55b25a30a1616613.png",
     "index.html": "/chapter2/index.html",
-    "main.a5b5eca9.css.map": "/chapter2/static/css/main.a5b5eca9.css.map",
-    "main.ecdde838.js.map": "/chapter2/static/js/main.ecdde838.js.map",
+    "main.83c6978a.css.map": "/chapter2/static/css/main.83c6978a.css.map",
+    "main.d67a3572.js.map": "/chapter2/static/js/main.d67a3572.js.map",
     "787.1a118c60.chunk.js.map": "/chapter2/static/js/787.1a118c60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5b5eca9.css",
-    "static/js/main.ecdde838.js"
+    "static/css/main.83c6978a.css",
+    "static/js/main.d67a3572.js"
   ]
 }
